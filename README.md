@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/astronaut-banner.svg" width="100%"/>
+<img src="./astronaut-banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Software+%26+Web+Developer+%F0%9F%92%BB;AI%2FML+Learner+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+the+code+universe+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -196,7 +196,7 @@ It's to **build stronger fundamentals, create better projects, and gradually bec
 
 ### 🐍 Contribution Snake
 
-<img src="./assets/github-snake.svg" width="100%"/>
+<img src="./github-snake.svg" width="100%"/>
 
 *(This is a real animation — a GitHub Action redraws it daily by "eating" your contribution graph. Setup is step 6 below.)*
 
@@ -228,8 +228,10 @@ I'm always interested in connecting with students, developers, builders, and peo
 <div align="center">
 
 <!-- Add your real links below. Remove any you don't use. -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/faizan-jamkhandi-574b533a4)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanrider999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
