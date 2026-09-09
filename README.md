@@ -11,19 +11,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mr-ParallaX&theme=nightowl&hide_border=true&background=05010D&ring=B389FF&fire=E85D75)](https://github.com/Mr-ParallaX)
 
 <br/>
-
-<details>
-<summary>🌌 <b>Click to toggle: Dark Galaxy vs Light Nebula theme</b></summary>
-<br/>
-
-**This is a real, working toggle** — GitHub renders `<details>` as an actual expand/collapse control since it can't run JavaScript for a live theme switch. Tap it to preview the light variant of the stat cards below.
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-ParallaX&show_icons=true&theme=cobalt2&hide_border=true&rank_icon=github" height="160"/>
-
-*(Swap `theme=nightowl` / `theme=cobalt2` for `theme=cobalt2` / `theme=default` anywhere in this file to fully commit to the light look — see the setup steps below.)*
-
-</details>
-
 </div>
 
 <img src="./divider-stars.svg" width="100%">
