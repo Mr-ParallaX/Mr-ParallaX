@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./astronaut-banner.svg" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Software+%26+Web+Developer+%F0%9F%92%BB;AI%2FML+Learner+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+the+code+universe+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
