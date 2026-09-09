@@ -1,14 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Faizan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Builder%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="./assets/astronaut-banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Software+%26+Web+Developer+%F0%9F%92%BB;AI%2FML+Learner+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Software+%26+Web+Developer+%F0%9F%92%BB;AI%2FML+Learner+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Exploring+the+code+universe+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mr-ParallaX&style=for-the-badge&color=00c6ff&label=PROFILE+VIEWS)](https://github.com/Mr-ParallaX)
-[![GitHub followers](https://img.shields.io/github/followers/Mr-ParallaX?style=for-the-badge&logo=github&color=0f2027&labelColor=00c6ff)](https://github.com/Mr-ParallaX?tab=followers)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-ParallaX&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Mr-ParallaX)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mr-ParallaX&style=for-the-badge&color=6b2fc9&label=MISSION+VIEWS)](https://github.com/Mr-ParallaX)
+[![GitHub followers](https://img.shields.io/github/followers/Mr-ParallaX?style=for-the-badge&logo=github&color=1a0b3d&labelColor=6b2fc9)](https://github.com/Mr-ParallaX?tab=followers)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mr-ParallaX&theme=nightowl&hide_border=true&background=05010D&ring=B389FF&fire=E85D75)](https://github.com/Mr-ParallaX)
+
+<br/>
+
+<details>
+<summary>🌌 <b>Click to toggle: Dark Galaxy vs Light Nebula theme</b></summary>
+<br/>
+
+**This is a real, working toggle** — GitHub renders `<details>` as an actual expand/collapse control since it can't run JavaScript for a live theme switch. Tap it to preview the light variant of the stat cards below.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-ParallaX&show_icons=true&theme=cobalt2&hide_border=true&rank_icon=github" height="160"/>
+
+*(Swap `theme=nightowl` / `theme=cobalt2` for `theme=cobalt2` / `theme=default` anywhere in this file to fully commit to the light look — see the setup steps below.)*
+
+</details>
 
 </div>
 
@@ -171,14 +185,20 @@ It's to **build stronger fundamentals, create better projects, and gradually bec
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📊 GitHub Activity
+## 📊 Mission Control — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-ParallaX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-ParallaX&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-ParallaX&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-ParallaX&layout=compact&theme=nightowl&hide_border=true" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-ParallaX&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-ParallaX&theme=github-dark&hide_border=true&bg_color=05010D&color=B389FF&line=E85D75&point=ffffff" width="95%"/>
+
+### 🐍 Contribution Snake
+
+<img src="./assets/github-snake.svg" width="100%"/>
+
+*(This is a real animation — a GitHub Action redraws it daily by "eating" your contribution graph. Setup is step 6 below.)*
 
 </div>
 
@@ -209,11 +229,11 @@ I'm always interested in connecting with students, developers, builders, and peo
 
 <!-- Add your real links below. Remove any you don't use. -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/faizan-jamkhandi-574b533a4)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanjamkhandi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanrider999@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer&text=Building%20today.%20Learning%20every%20day.%20🚀&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b3d,50:6b2fc9,100:e85d75&height=150&section=footer&text=Building%20today.%20Learning%20every%20day.%20🚀&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
