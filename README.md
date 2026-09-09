@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 🧑‍💻 About Me
 
@@ -66,11 +66,17 @@ I learn best by actually building things — from web applications and developer
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="90"/>
 
 **Languages**
 
@@ -101,11 +107,13 @@ I learn best by actually building things — from web applications and developer
 
 > **Current mindset:** I prefer understanding how things work instead of only making them work.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 🚀 Featured Project
 
 ### 🛰️ ThreatMap — Threat Intelligence & OSINT Platform
+
+<img src="./radar-scan.svg" width="100%"/>
 
 A team-built cybersecurity project developed during my internship.
 
@@ -149,7 +157,7 @@ A team-built cybersecurity project developed during my internship.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 📌 What I'm Currently Learning
 
@@ -169,7 +177,7 @@ My current goal isn't to learn every technology at once.
 
 It's to **build stronger fundamentals, create better projects, and gradually become capable of developing complete applications independently.**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 🎯 2026 Goals
 
@@ -183,7 +191,7 @@ It's to **build stronger fundamentals, create better projects, and gradually bec
 - [ ] Contribute to open-source projects
 - [ ] Build projects that solve real problems
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 📊 Mission Control — GitHub Activity
 
@@ -205,7 +213,7 @@ It's to **build stronger fundamentals, create better projects, and gradually bec
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 🧠 My Learning Philosophy
 
@@ -219,7 +227,7 @@ I believe projects are one of the best ways to turn theoretical knowledge into p
 
 Every project doesn't have to be perfect. It just needs to teach me something.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="./divider-stars.svg" width="100%">
 
 ## 🤝 Let's Connect
 
